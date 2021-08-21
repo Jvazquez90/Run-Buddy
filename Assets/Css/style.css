@@ -271,3 +271,16 @@ hero-form p {
 .contact-info a {
     color: #fce138;
 }
+
+.hero-cta h2 {
+    color: #fce138;
+    font-style: italic;
+}
+
+.hero-cta p {
+    color: white;
+}
+
+.hero-cta div {
+   position:;
+}
