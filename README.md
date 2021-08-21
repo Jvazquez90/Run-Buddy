@@ -1,5 +1,14 @@
 # Run-Buddy
 
-Created a landing page for Run Buddy, a service that lets runners sign up for personal training.
+## Purpose
+A website that offers fitness training services.
 
-Created using Html and CSS.
+## Built With
+* HTML
+* CSS
+
+## Website
+https://jvazquez90.github.io/Run-Buddy/
+
+## Contribution
+Made with ❤️ by [Jessica Vazquez]
